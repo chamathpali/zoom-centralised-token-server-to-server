@@ -18,7 +18,7 @@ With the Zoom's replacement to JWT token, an issue arised when using token in mu
 
 ```curl
 curl --location 'hosted-url' \
---header 'ACCESS_KEY: YOUR_OWN_PRIVATE_KEY'
+--header 'ACCESS-KEY: YOUR_OWN_PRIVATE_KEY'
 ```
 
 *Open source software disclaimer: Use at your own risk.*
